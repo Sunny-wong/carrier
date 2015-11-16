@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  mts: 1
+  carrier: MyString
+
+two:
+  mts: 1
+  carrier: MyString

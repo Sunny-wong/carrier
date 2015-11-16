@@ -1,0 +1,5 @@
+  [1m[36mNotFoundMobileNumber Load (0.2ms)[0m  [1mSELECT  `not_found_mobile_numbers`.* FROM `not_found_mobile_numbers`  ORDER BY `not_found_mobile_numbers`.`id` ASC LIMIT 1[0m
+  [1m[35mMobileNumberSection Load (2.4ms)[0m  SELECT  `mobile_number_sections`.* FROM `mobile_number_sections` WHERE `mobile_number_sections`.`mts` = '1300004' LIMIT 1
+  [1m[36mNotFoundMobileNumber Load (0.2ms)[0m  [1mSELECT  `not_found_mobile_numbers`.* FROM `not_found_mobile_numbers`  ORDER BY `not_found_mobile_numbers`.`id` ASC LIMIT 1[0m
+  [1m[35mMobileNumberSection Load (0.2ms)[0m  SELECT  `mobile_number_sections`.* FROM `mobile_number_sections` WHERE `mobile_number_sections`.`mts` = '1300004' LIMIT 1
+  [1m[36mNotFoundMobileNumber Load (1.4ms)[0m  [1mSELECT  `not_found_mobile_numbers`.* FROM `not_found_mobile_numbers` WHERE `not_found_mobile_numbers`.`number` = '13000041111' LIMIT 1[0m
